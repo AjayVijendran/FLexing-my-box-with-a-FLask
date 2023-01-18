@@ -1,1 +1,1 @@
-web: C:\Users\ajayv\Flask-intro\env\Scripts\gunicorn.exe app:app
+web: gunicorn app:app
